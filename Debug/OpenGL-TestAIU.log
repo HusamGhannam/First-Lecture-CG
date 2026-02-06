@@ -1,0 +1,4 @@
+﻿  MainGL.cpp
+  Source.cpp
+  Generating Code...
+C:\Users\Hosam\source\repos\OpenGL-TestAIU\OpenGL-TestAIU\Source.cpp(4,10): error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
